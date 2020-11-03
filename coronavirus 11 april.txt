@@ -1,0 +1,42 @@
+﻿<!DOCTYOE html>
+<html>
+<head>
+<title>COVID-19</title>
+</head>
+<body style="background-color:lightgrey;">
+
+
+<h1 style="font-size:80px;"> <h1 style="color:brown">Coronavirus disease 2019 (COVID-19)</h1>
+<p>The 2019–20 coronavirus pandemic is a pandemic of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).<b>The disease was first identified in Wuhan, Hubei, China in December 2019.</p>
+<img src="virus5.JFIF" alt="a picture of coronavirus virus" width="164" length="142">
+
+<h2>What is coronavirus?</h2>
+<p>Any of a group of RNA viruses that cause a variety of diseases in humans and other animals.</p>
+<p>Coronavirus disease 2019, or COVID-19, is a disease that can cause what doctors call a respiratory tract infection. It can affect your upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs).</p>
+<p>The COVID-19 outbreak quickly spread around the world. It spreads the same way other coronaviruses do, mainly through person-to-person contact. Infections range from mild to serious.</p>
+<p style="color:red">COVID-19 is one of seven types of coronavirus, including the ones that cause severe diseases like Middle East respiratory syndrome (MERS) and sudden acute respiratory syndrome (SARS). The other coronaviruses cause most of the colds that affect us during the year but aren’t a serious threat for otherwise healthy people.</p>
+<p title="information">There are total 7,600 cases confirmed.</p>
+<h2>Symptoms:</h2>
+<p>Initial flu-like symptoms, such as fever, coughing, breathing difficulties, fatigue, and myalgia.</p>
+<h2><strong>Prevention tips:</strong> </h2>
+<ol>
+<li>Avoiding close contact with sick individuals.</li>
+<li>Frequently washing hands with soap and water.</li>
+<li>Not touching the eyes,nose or mouth with unwashed hands.</li>
+<li>And practicing good respiratory hygiene.</li>
+</ol>
+<img src="virus6.JPG" alt="a girl wearing mask to protect herself from virus" width="164" length="142"> <img src="virus8.JPG" width="164" length="142"> <img src="virus9.JPG" width="164" length="142">
+<br>
+<hr>
+<h4 title="increase your knowledge"><ins>UPDATES:</ins></h4>
+<ol>
+<li>More than 2,200 coronavirus deaths in nursing homes, but federal government isn't tracking them.</li>
+<li>Cuba, U.S. dispute embargo's role in blocking coronavirus supplies.</li>
+<li>U.S spy agencies collected intel hinting at public health crisis in China in November.</li>
+<li>'Fight of a generation': Coronavirus could trigger violent unrest, Security Council warned.</li>
+</ol>
+<p><i>For more updates</i><a href="https://www.nbcnews.com/health/coronavirus">click here</a>
+<hr>
+
+</body>
+</html>
